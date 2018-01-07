@@ -26,7 +26,7 @@
   ],
   "dependencies": {
     "angular": ">=1.2.0 <2.0",
-    "ladda": ">=0.9.8"
+    "ladda": "https://github.com/zoellner/Ladda.git#9afe270ddb9cb409f294d8f4aaa0f1dc94a075e8"
   },
   "devDependencies": {
     "bootstrap": "^3.3.1",
